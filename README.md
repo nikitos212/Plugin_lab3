@@ -1,45 +1,30 @@
-# UsefulPlugin README
-s
+#  README
 
-## Features
-s
+## Authorship
 
+Mikhel Nikita, M3109
 
-## Requirements
-snippets
-s
+## Description
+
+This plugin generate documentation about project with information in files .cpp, using lib Doxygen, documentation save in folder ./doc/html/
+
 ## Extension Settings
-snippets
 
 ## Known Issues
 
-
-see
 ## Release Notes
-see
 
 ### 1.0.0
-see
-
 
 ### 1.0.1
 
-Settings
-
 ### 1.1.0
-sss
-
-
-
----
 
 ## Following extension guidelines
-ssd
-
 
 ## Working with Markdown
-1.pressF
 
 ## For more information
-that's just study plugin, it is not useful.
+
+that's just study plugin
 

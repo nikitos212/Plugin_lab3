@@ -1,4 +1,3 @@
-// extension.js
 const vscode = require('vscode');
 const { execSync } = require('child_process');
 
