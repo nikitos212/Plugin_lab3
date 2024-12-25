@@ -1,0 +1,36 @@
+{
+  "name": "docgen",
+  "displayName": "DocGen",
+  "description": "Generates documentation using Doxygen.",
+  "version": "0.0.1",
+  "engines": {
+      "vscode": "^1.73.0"
+  },
+  "categories": [
+      "Other"
+  ],
+  "activationEvents": [
+      "onCommand:docgen.generateDocumentation"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+      "commands": [
+          {
+              "command": "docgen.generateDocumentation",
+              "title": "Generate Documentation"
+          }
+      ]
+  },
+  "scripts": {
+      "vscode:prepublish": "",
+      "compile": "",
+      "watch": "",
+      "prettier": "",
+      "lint": "",
+      "test": ""
+  },
+  "devDependencies": {},
+  "dependencies": {
+      "child_process": "^1.0.2"
+  }
+}
